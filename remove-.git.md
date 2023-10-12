@@ -3,11 +3,11 @@
 
 # resolve
 - B1: check: 
-      + 1. 
+    + 1. 
             ```sh
                 cd .\.git
             ```
-      + 2. 
+    + 2. 
             ```sh
                 ls -la
             ```
