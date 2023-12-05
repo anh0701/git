@@ -10,3 +10,9 @@
     git submodule init
     git submodule update
 ```
+
+hoặc sử dụng câu lệnh:
+
+```sh
+    git submodule update --init --recursive
+```
