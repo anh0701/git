@@ -3,11 +3,14 @@
    - create folder/project in computer
    - after create new repo 
 2. Resolve
-   - step 1: git init
-   - step 2: git remote add origin  URL-REPO
-   - step 2: git remote -v => to check
-   - step 3: git checkout -b main => switch to branch main
-   - step 4: git pull origin main
-   - step 5: git add .
-   - step 6: git commit -m "..{messgae}.."
-   - step 7: git push origin main 
+
+```sh
+   git init
+   git remote add origin  URL-REPO
+   git remote -v # to check
+   git checkout -b main # switch to branch main
+   git pull origin main
+   git add .
+   git commit -m "..{messgae}.."
+   git push origin main
+``` 
